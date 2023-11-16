@@ -1,0 +1,2 @@
+Hello Nanu, Welcome to gitnotes
+We will learn git and github
